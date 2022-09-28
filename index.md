@@ -17,7 +17,7 @@ This is a short introduction of myself
 ### A few projects I've made in the past with FreeCodeCamp
 1. [Random Quote App](https://will-loves-coding82.github.io/Random-Quote-App-/)
 2. [Drum Kit App](https://will-loves-coding82.github.io/drum-app/)
-3. [Portfolio] (https://will-loves-coding82.github.io/Portfolio-Mockup/)
+3. [Portfolio App](https://will-loves-coding82.github.io/Portfolio-Mockup/)
 
   
 ### What Am I Doing These Days?
