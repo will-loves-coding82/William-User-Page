@@ -1,6 +1,6 @@
 # Welcome to my User Page. This is a short introduction of myself!
 
-[This is a picture of me!](/pictures/IMG_1245.PNG)
+![This is a picture of me!](/pictures/IMG_1245.PNG)
 
 [Navigate to bottom](#basic-git-commands-i-used-for-this-page)
 
