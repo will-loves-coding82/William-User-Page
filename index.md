@@ -2,7 +2,7 @@
 ##This is a short introduction of myself
 
 [This is a picture of me!](/pictures/IMG_1245.PNG)
-[Navigate to bottom](#Basic Gi)
+[Navigate to bottom](#basic-git-commands-i-used-for-this-page)
 
 ###Inspirational Quote of The Day**
 > “Any fool can write code that a computer can understand. **Good programmers** write code that humans can understand.” – Martin Fowler
