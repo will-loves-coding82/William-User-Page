@@ -1,3 +1,4 @@
 #William's User Page
-#My favorite progrmaming language is JavaScript!
+#My favorite programming language is JavaScript!
+#
 
