@@ -1,5 +1,4 @@
-# Welcome to my User Page
-This is a short introduction of myself
+# Welcome to my User Page. This is a short introduction of myself!
 
 [This is a picture of me!](/pictures/IMG_1245.PNG)
 
@@ -26,10 +25,10 @@ This is a short introduction of myself
 3. But I am mainly focusing on school work 
 
 ### My Personal Goals for Improvement
-- [X] Go to the gym
-- [X] Make more friends
-- [] Get good grades
-- [] Become smarter
+- [X]  Go to the gym
+- [X]  Make more friends
+- []  Get good grades
+- []  Become smarter
 
 ### Basic Git commands I used for this page
 ```
