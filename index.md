@@ -25,10 +25,10 @@
 3. But I am mainly focusing on school work 
 
 ### My Personal Goals for Improvement
-- [ X ]  Go to the gym
-- [ X ]  Make more friends
-- [ ]  Get good grades
-- [ ]  Become smarter
+[X]  Go to the gym
+[X]  Make more friends
+[ ]  Get good grades
+[ ]  Become smarter
 
 ### Basic Git commands I used for this page
 ```
